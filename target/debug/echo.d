@@ -1,1 +1,1 @@
-/Users/maximeperez/RustroverProjects/cli-utilities/helloworld/target/debug/echo: /Users/maximeperez/RustroverProjects/cli-utilities/helloworld/src/bin/echo.rs
+/Users/maximeperez/RustroverProjects/cli-utilities/target/debug/echo: /Users/maximeperez/RustroverProjects/cli-utilities/src/bin/echo.rs
